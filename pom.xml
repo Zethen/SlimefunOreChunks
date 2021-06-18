@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>me.zethen</groupId>
     <artifactId>SlimefunOreChunks</artifactId>
-    <version>UNOFFICIAL</version>
+    <version>1.0.0</version>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -97,7 +97,7 @@
         <dependency>
             <groupId>com.github.slimefun</groupId>
             <artifactId>Slimefun4</artifactId>
-            <version>RC-25</version>
+            <version>master-SNAPSHOT</version>
             <scope>provided</scope>
             <exclusions>
                 <exclusion>

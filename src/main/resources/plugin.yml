@@ -1,10 +1,10 @@
 name: SlimefunOreChunks
 version: ${project.version}
-author: TheBusyBiscuit
-description: A Slimefun Addon that adds the various Dusts to the GEO-Miner
-website: https://github.com/TheBusyBiscuit/SlimefunOreChunks
+author: Zethen
+description: A Slimefun Addon that adds the various Dusts to the GEO-Miner. Originally created by TheBusyBiscuit, updated by Zethen for Minecraft 1.17.
+website: https://github.com/Zethen/SlimefunOreChunks
 
-main: io.github.thebusybiscuit.slimefunorechunks.OreChunks
+main: me.zethen.slimefunorechunks.OreChunks
 depend: [Slimefun]
 
 api-version: 1.14
